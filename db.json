@@ -354,6 +354,35 @@
           "SHIPPING",
           "WARRANTY"
         ]
+      },
+      {
+        "id": 10,
+        "productLabel": "SPECIAL OFFER",
+        "title": "Single Unit Front Load LG WashTower™ with Center Control™ 4.5 cu. ft. Washer and 7.4 cu. ft. Electric Dryer",
+        "price": {
+          "basePrice": " $2,499.00",
+          "discount": "$600.00",
+          "finalPrice": "$1,899.00"
+        },
+        "description": "Forget about sorting or choosing cycles- built-in sensors use AI technology to detect fabric texture & load size, then customize wash motions and dry temps & more for advanced fabric care.",
+        "keyFeatures": [
+          "Ultra Large Capacity 4.5 cu.ft. Washer and 7.4 cu.ft. Dryer",
+          "Single Unit WashTower™ Design"
+        ],
+        "sizes": [
+        ],
+        "categoryId": 4,
+        "productSKU": "lg-wkex200hba-washtower",
+        "bannerImage": "https://www.lg.com/us/images/washer-dryer-combos/md07516046/350.jpg",
+        "rating": {
+          "rate": 3,
+          "count": 92
+        },
+        "topReview": "It’s hard to describe",
+        "offers": [
+          "SHIPPING",
+          "WARRANTY"
+        ]
       }
     ]
 }
