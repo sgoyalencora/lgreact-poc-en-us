@@ -325,6 +325,35 @@
           "SHIPPING",
           "WARRANTY"
         ]
+      },
+      {
+        "id": 9,
+        "productLabel": "SPECIAL OFFER",
+        "title": "30 cu. ft. Smart wi-fi Enabled InstaView™ Door-in-Door® Refrigerator with Craft Ice™ Maker",
+        "price": {
+          "basePrice": " $4,399.00",
+          "discount": "$600.00",
+          "finalPrice": "$3,799.00"
+        },
+        "description": "With the Super-Capacity 30 cu. ft. refrigerator, you have even more usable space* allowing you to store more food than ever before.",
+        "keyFeatures": [
+          "30 cu. ft. Capacity",
+          "InstaView™ Door-in-Door® with adjustable bin"
+        ],
+        "sizes": [
+        ],
+        "categoryId": 3,
+        "productSKU": "lg-lrfvs3006s-instaview-refrigerator",
+        "bannerImage": "https://www.lg.com/us/images/refrigerators/md07000072/md07000072-350x350.jpg",
+        "rating": {
+          "rate": 3,
+          "count": 92
+        },
+        "topReview": "It’s hard to describe",
+        "offers": [
+          "SHIPPING",
+          "WARRANTY"
+        ]
       }
     ]
 }
