@@ -267,6 +267,35 @@
           "SHIPPING",
           "WARRANTY"
         ]
+      },
+      {
+        "id": 7,
+        "productLabel": "SPECIAL OFFER",
+        "title": "LG SIGNATURE 15 cu. ft. Smart wi-fi Enabled InstaView® Wine Cellar Refrigerator",
+        "price": {
+          "basePrice": "$6,999.00",
+          "discount": "$0",
+          "finalPrice": "$6,999.00"
+        },
+        "description": "Three optimal temperature zones provide ideal conditions to preserve and bring out the unique flavors of red, white, and sparkling wines.",
+        "keyFeatures": [
+          "LG SIGNATURE",
+          "65 Wine Bottle Capacity"
+        ],
+        "sizes": [
+        ],
+        "categoryId": 3,
+        "productSKU": "lg-uretc1408n-wine-cellar-refrigerator-lgsignature",
+        "bannerImage": "https://www.lg.com/us/images/refrigerators/md08000177/350.jpg",
+        "rating": {
+          "rate": 3,
+          "count": 92
+        },
+        "topReview": "It’s hard to describe",
+        "offers": [
+          "SHIPPING",
+          "WARRANTY"
+        ]
       }
     ]
 }
