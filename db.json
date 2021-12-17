@@ -412,6 +412,35 @@
           "SHIPPING",
           "WARRANTY"
         ]
+      },
+      {
+        "id": 12,
+        "productLabel": "SPECIAL OFFER",
+        "title": "5.0 cu.ft. Smart wi-fi Enabled Top Load Washer with TurboWash3D™ Technology",
+        "price": {
+          "basePrice": " $1,099.00",
+          "discount": "$100.00",
+          "finalPrice": "$949.00"
+        },
+        "description": "LG Top Load HE Washers were Evaluated by Consumer Reports",
+        "keyFeatures": [
+          "5.0 cu.ft. Mega Capacity",
+          "TurboWash3D™ Technology"
+        ],
+        "sizes": [
+        ],
+        "categoryId": 4,
+        "productSKU": "lg-WT7300CV-top-load-washer",
+        "bannerImage": "https://www.lg.com/us/images/washers/md06076536/350.jpg",
+        "rating": {
+          "rate": 3,
+          "count": 92
+        },
+        "topReview": "It’s hard to describe",
+        "offers": [
+          "SHIPPING",
+          "WARRANTY"
+        ]
       }
     ]
 }
