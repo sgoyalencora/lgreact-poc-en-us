@@ -167,6 +167,106 @@
           "SHIPPING",
           "WARRANTY"
         ]
+      },
+          
+          
+      {
+        "id": 4,
+        "productLabel": "DEAL OF TEH DAY",
+        "title": "LG gram 17'' Ultra-Lightweight Laptop with 11th Gen Intel® Core™ Processor w/Intel® Iris® Xe Graphics",
+        "price": {
+          "basePrice": "$1,399.99",
+          "discount": "$300.00",
+          "finalPrice": "$1,099.99"
+        },
+        "description": "LG gram 17'' Ultra-Lightweight Laptop with 11th Gen Intel® Core™ Processor w/Intel® Iris® Xe Graphics",
+        "keyFeatures": [
+          "17.0” WQXGA (2560 x 1600) IPS LCD Screen",
+          "Windows 10 Home (64bit)",
+          "16GB LPDDR4X 4266MHz RAM"
+        ],
+        "sizes": [
+          {
+            "price": "$4499.00",
+            "label": 12
+          },
+          {
+            "price": "$2999.00",
+            "label": 13
+          },
+          {
+            "price": "$2199.00",
+            "label": 14
+          }
+        ],
+        "categoryId": 2,
+        "productSKU": "lg-17z95n-g.aas6u1-ultra-slim-laptop",
+        "bannerImage": "https://www.lg.com/us/images/laptops/md08001063/3501.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        },
+        "topReview": "It’s hard to describe, but OLED just pops.",
+        "offers": [
+          "SHIPPING"
+        ]
+      },
+      {
+        "id": 5,
+        "productLabel": "BLACK FRIDAY",
+        "title": "LG SPK8-S 2.0 Channel Sound Bar Wireless Rear Speaker Kit",
+        "price": {
+          "basePrice": "$179.99",
+          "discount": "$50.00",
+          "finalPrice": "$129.99"
+        },
+        "description": "Pair the LG Rear Speaker Kit to an SN10YG, SN9YG, SN8YG, SN7Y, SN7CY, SN6Y, SN5Y, SLM6Y, GX, SL10YG, SL9YG, SL8YG, SL7Y, SL6Y, SL5Y, SL4Y, SKM5Y, SK10Y, SK9Y, SK8Y, SK6Y, SK5Y sound bar for true home theater surround.",
+        "keyFeatures": [
+          "2.0ch/140W",
+          "Surround Sound Expansion"
+        ],
+        "sizes": [
+        ],
+        "categoryId": 2,
+        "productSKU": "lg-SPK8-S-wireless-surround-kit",
+        "bannerImage": "https://www.lg.com/us/images/home-audio/md05936736/SPK8-350.jpg",
+        "rating": {
+          "rate": 3.4,
+          "count": 86
+        },
+        "topReview": "It’s hard to describe",
+        "offers": [
+          "SHIPPING"
+        ]
+      },
+      {
+        "id": 6,
+        "productLabel": "CHRISMASH BONUS",
+        "title": "LG CordZero™ A9 Kompressor Stick Vacuum - Iron Grey",
+        "price": {
+          "basePrice": "$3,299.99",
+          "discount": "$800.00",
+          "finalPrice": "$2,499.99"
+        },
+        "description": "The Kompressor™ lever compresses dirt, dust & pet hair in the bin to more than double* bin capacity.",
+        "keyFeatures": [
+          "Kompressor® Technology",
+          "2 Quick Release Batteries and Portable Charging Stand"
+        ],
+        "sizes": [
+        ],
+        "categoryId": 2,
+        "productSKU": "lg-a927kgms-stick-vacuum",
+        "bannerImage": "https://www.lg.com/us/images/vacuum-cleaners/md07505995/350.jpg",
+        "rating": {
+          "rate": 3,
+          "count": 92
+        },
+        "topReview": "It’s hard to describe",
+        "offers": [
+          "SHIPPING",
+          "WARRANTY"
+        ]
       }
     ]
 }
