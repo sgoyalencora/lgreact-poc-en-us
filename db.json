@@ -296,6 +296,35 @@
           "SHIPPING",
           "WARRANTY"
         ]
+      },
+      {
+        "id": 8,
+        "productLabel": "SPECIAL OFFER",
+        "title": "28 cu ft. Smart InstaView® Door-in-Door® Double Freezer Refrigerator with Craft Ice™",
+        "price": {
+          "basePrice": "$3,799.00",
+          "discount": "$0",
+          "finalPrice": "$3,799.00"
+        },
+        "description": "Stock up and store everything you need. With a cavernous 28 cubic feet of space, this LG French Door refrigerator gives you ample space for all your family's favorite foods and keeps them conveniently organized and within reach.",
+        "keyFeatures": [
+          "28 cu. ft Large Capacity",
+          "Double Freezer Drawers"
+        ],
+        "sizes": [
+        ],
+        "categoryId": 3,
+        "productSKU": "lg-lrmvs2806s-instaview-refrigerator",
+        "bannerImage": "https://www.lg.com/us/images/refrigerators/md08000177/350.jpg",
+        "rating": {
+          "rate": 3,
+          "count": 92
+        },
+        "topReview": "It’s hard to describe",
+        "offers": [
+          "SHIPPING",
+          "WARRANTY"
+        ]
       }
     ]
 }
