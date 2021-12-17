@@ -383,6 +383,35 @@
           "SHIPPING",
           "WARRANTY"
         ]
+      },
+      {
+        "id": 11,
+        "productLabel": "SPECIAL OFFER",
+        "title": "4.5 cu. ft. Ultra Large Capacity Smart wi-fi Enabled Front Load Washer with TurboWash™ 360° and Built-In Intelligence",
+        "price": {
+          "basePrice": " $1,099.00",
+          "discount": "$100.00",
+          "finalPrice": "$949.00"
+        },
+        "description": "5 powerful jets spray clothes from multiple angles for a complete clean in under 30 minutes*.",
+        "keyFeatures": [
+          "4.5 cu. ft. Ultra Large Capacity",
+          "TurboWash™ 360° Technology"
+        ],
+        "sizes": [
+        ],
+        "categoryId": 4,
+        "productSKU": "lg-wm4000hwa-front-load-washer",
+        "bannerImage": "https://www.lg.com/us/images/washers/md07513842/3502.jpg",
+        "rating": {
+          "rate": 3,
+          "count": 92
+        },
+        "topReview": "It’s hard to describe",
+        "offers": [
+          "SHIPPING",
+          "WARRANTY"
+        ]
       }
     ]
 }
